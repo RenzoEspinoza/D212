@@ -1,0 +1,5 @@
+D212 notes
+
+Research question:
+
+Is the length of a customer's tenure with the company related to the 8 factors that they rated based on importance.
