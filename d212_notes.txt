@@ -3,3 +3,10 @@ D212 notes
 Research question:
 
 Is the length of a customer's tenure with the company related to the 8 factors that they rated based on importance.
+
+Remember that the importance of each factor is from 1(Very Important) to 8(Not Important)
+
+Focus on Cluster 0 and 3, not the two in the middle, the separation is clear for both PCA1x2 and PCA1x3 plots. Bottom left of the PCA pairplot is very important for both PCAs and top right represents not important for either.
+
+Command to add gitignore file to avoid committing the /env folder
+echo '/env' >> .gitignore
